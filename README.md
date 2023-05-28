@@ -7,7 +7,7 @@
     alt="chat on Discord"></a>
     
 ## About
-Reactjs SDK that provides login functionality with SuperTokens.
+React JS SDK that provides login functionality with SuperTokens.
 
 Learn more at https://supertokens.io
 
