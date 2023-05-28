@@ -13,7 +13,7 @@ Learn more at https://supertokens.io
 
 ## Documentation
 
-To see documentation, please click [here](https://supertokens.io/docs/community/introduction).
+To see documentationss, please click [here](https://supertokens.io/docs/community/introduction).
 
 ## Contributing
 
